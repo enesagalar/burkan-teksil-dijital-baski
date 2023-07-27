@@ -1,0 +1,10 @@
+[12-Jul-2023 09:24:36 UTC] PHP Warning:  Undefined array key "mail" in /home/ene38ealarcom/public_html/assets/php/sendmail.php on line 34
+[12-Jul-2023 09:26:47 UTC] PHP Warning:  Undefined array key "mail" in /home/ene38ealarcom/public_html/assets/php/sendmail.php on line 34
+[12-Jul-2023 10:13:22 UTC] PHP Warning:  Undefined variable $name in /home/ene38ealarcom/public_html/assets/php/sendmail.php on line 33
+[12-Jul-2023 10:13:22 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/ene38ealarcom/public_html/assets/php/PHPMailer.php on line 1308
+[12-Jul-2023 10:13:22 UTC] PHP Warning:  Undefined variable $subject in /home/ene38ealarcom/public_html/assets/php/sendmail.php on line 38
+[12-Jul-2023 10:13:22 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ene38ealarcom/public_html/assets/php/PHPMailer.php on line 1608
+[12-Jul-2023 10:14:08 UTC] PHP Warning:  Undefined variable $name in /home/ene38ealarcom/public_html/assets/php/sendmail.php on line 33
+[12-Jul-2023 10:14:08 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/ene38ealarcom/public_html/assets/php/PHPMailer.php on line 1308
+[12-Jul-2023 11:19:28 UTC] PHP Warning:  Undefined array key "mail" in /home/ene38ealarcom/public_html/assets/php/sendmail.php on line 6
+[12-Jul-2023 11:19:28 UTC] PHP Warning:  Undefined array key "mail" in /home/ene38ealarcom/public_html/assets/php/sendmail.php on line 45
