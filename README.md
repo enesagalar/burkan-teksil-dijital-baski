@@ -31,7 +31,7 @@ Bu website HTML, CSS, JavaScript, Bootstrap ve PHP ile oluşturulmuştur.
 
 1. Projeyi klonlayın:
 
-git clone https://github.com/kullanici_adi/teksil-dijital-baski.git
+git clone https://github.com/kullanici_adi/burkan-teksil-dijital-baski.git
 
 2. Klonlanan klasöre gidin:
 
